@@ -1,0 +1,1 @@
+Exporting data is seamless with support for popular formats like Excel and CSV. This enables estimators to easily share outputs with accounting systems, procurement platforms, or project management tools. One-click export makes the process efficient and user-friendly.

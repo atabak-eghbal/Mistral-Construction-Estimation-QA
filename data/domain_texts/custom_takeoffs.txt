@@ -1,0 +1,1 @@
+Customizable takeoffs let users define specific materials, areas, or sections to include in their estimates. Whether you're working on electrical, plumbing, or structural components, TaksoAi allows tailored measurement logic to suit each use case. This enhances flexibility and control for the estimator.

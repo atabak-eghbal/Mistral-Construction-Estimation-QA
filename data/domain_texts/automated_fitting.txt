@@ -1,0 +1,1 @@
+TaksoAi’s automated fitting feature leverages AI to identify and quantify all fittings, fixtures, and material lengths directly from construction blueprints. This minimizes human error and speeds up the estimation process. By processing blueprint images, the system produces highly accurate measurements for takeoff planning.

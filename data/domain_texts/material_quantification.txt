@@ -1,0 +1,1 @@
+Our system uses AI-powered algorithms to calculate the exact quantities of construction materials needed based on input drawings and parameters. It significantly reduces over-ordering and underestimation. This improves cost efficiency and ensures that procurement is tightly aligned with project needs.
