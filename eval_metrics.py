@@ -2,7 +2,7 @@ import torch
 import json
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from peft import PeftModel
-import evaluate  # Updated: using evaluate library instead of datasets.load_metric
+import evaluate  # using evaluate library
 
 # Define a prompt template for clear separation between question and answer
 PROMPT_TEMPLATE = """<|QUESTION|>: {question}
@@ -62,9 +62,10 @@ def evaluate_and_compute_rouge(adapter_path, test_file="test.json"):
         
         # Compute ROUGE scores comparing generated text with the reference answer.
         rouge_result = rouge_metric.compute(predictions=[generated], references=[reference])
-        rouge_l = rouge_result["rougeL"].mid.fmeasure
+        # Directly use the float value from the result.
+        rouge_l = rouge_result["rougeL"]
         
-        # Decide if the answer is "close enough" (threshold, e.g., 0.3)
+        # Decide if the answer is "close enough" (for example, threshold at 0.3)
         close_enough = rouge_l >= 0.3
         
         result = {
