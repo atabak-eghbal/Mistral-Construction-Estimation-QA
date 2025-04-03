@@ -30,7 +30,7 @@ def load_model_and_tokenizer(adapter_path, base_model_name="mistralai/Mistral-7B
     model.eval()
     return tokenizer, model
 
-def evaluate_and_compute_rouge(adapter_path, test_file="test.json"):
+def evaluate_and_compute_rouge(adapter_path, test_file="data/qa/test.json"):
     tokenizer, model = load_model_and_tokenizer(adapter_path)
     
     # Load the test set
