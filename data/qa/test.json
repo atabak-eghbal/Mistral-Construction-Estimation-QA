@@ -1,0 +1,28 @@
+[
+    {
+      "context": "Our AI-powered takeoff tool automatically recognizes over 60 pipe and HVAC fittings, including: valves, elbows, reducers and diffusers. Saving time and eliminating manual takeoff.",
+      "question": "How does the system handle fitting recognition?",
+      "reference_answer": "It automatically recognizes over 60 types of pipe and HVAC fittings such as valves, elbows, reducers, and diffusers, thereby eliminating manual takeoff."
+    },
+    {
+      "context": "Our system intelligently measures the length, system, and dimensions of pipe and duct using the power of AI.",
+      "question": "What measurement capabilities does the system offer?",
+      "reference_answer": "It intelligently measures the length, system, and dimensions of pipes and ducts using AI, eliminating the need for manual measurements."
+    },
+    {
+      "context": "Autonomously recognizes all types of equipment, fixtures, and devices. Instantly generate detailed summaries within minutes, complete with custom search functionality.",
+      "question": "What does the equipment recognition feature do?",
+      "reference_answer": "It autonomously recognizes equipment, fixtures, and devices and quickly generates detailed summaries with custom search functionality."
+    },
+    {
+      "context": "Once you are satisfied with your quantity takeoff, seamlessly export your quantities to your favorite pricing system.",
+      "question": "How does the system integrate with pricing systems?",
+      "reference_answer": "It seamlessly exports the quantity takeoff data to the pricing system of your choice, ensuring smooth integration with existing workflows."
+    },
+    {
+      "context": "All takeoffs are saved and performed on the cloud. Instantly view your results anywhere and collaborate across the organization.",
+      "question": "What benefits does cloud storage offer?",
+      "reference_answer": "Cloud storage allows you to instantly access your takeoffs from anywhere and collaborate easily with your team across the organization."
+    }
+  ]
+  

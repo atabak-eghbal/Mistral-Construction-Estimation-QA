@@ -1,18 +1,43 @@
 [
     {
-      "context": "TaksoAi automatically detects and quantifies fittings, fixtures, and material lengths...",
-      "question": "How does the software ensure precision in fitting?",
-      "answer": "It uses AI to detect fittings and reduce manual errors by analyzing blueprints."
+      "context": "Our AI-powered takeoff tool automatically recognizes over 60 pipe and HVAC fittings, including: valves, elbows, reducers and diffusers. Saving time and eliminating manual takeoff.",
+      "question": "How does the system handle fitting recognition?",
+      "answer": "It automatically recognizes over 60 types of pipe and HVAC fittings, such as valves, elbows, reducers, and diffusers, eliminating the need for manual takeoff."
     },
     {
-      "context": "Easily export your estimating data to Excel or CSV formats with one click...",
-      "question": "Which file formats does the software export to?",
-      "answer": "Excel and CSV for smooth integration."
+      "context": "Say goodbye to manual measurements. Our system intelligently measures the length, system, and dimensions of pipe and duct using the power of AI.",
+      "question": "What measurement capabilities does the system offer?",
+      "answer": "It intelligently measures the length, system, and dimensions of pipes and ducts using AI, removing the need for manual measurements."
     },
     {
-      "context": "The cloud-based platform enables teams to collaborate in real-time...",
-      "question": "What does cloud-based collaboration offer?",
-      "answer": "Real-time teamwork and synchronized updates between departments."
+      "context": "Autonomously recognizes all types of equipment, fixtures, and devices. Instantly generate detailed summaries within minutes, complete with custom search functionality.",
+      "question": "What does the equipment recognition feature do?",
+      "answer": "It autonomously recognizes equipment, fixtures, and devices, and generates detailed summaries quickly, with custom search functionality for easy navigation."
+    },
+    {
+      "context": "Maximize your productivity with our purpose-built interface. Engage directly with all detected elements and effortlessly fine-tune to perfection.",
+      "question": "How does the interface help in reviewing detected elements?",
+      "answer": "The interface is designed for productivity—it allows you to engage directly with detected elements and fine-tune them effortlessly to achieve precise results."
+    },
+    {
+      "context": "Once you are satisfied with your quantity takeoff, seamlessly export your quantities to your favorite pricing system.",
+      "question": "What integration does the system provide after takeoff?",
+      "answer": "It seamlessly exports your quantity takeoff data to your preferred pricing system, ensuring smooth integration with existing workflows."
+    },
+    {
+      "context": "All takeoffs are saved and performed on the cloud. Instantly view your results anywhere and collaborate across the organization.",
+      "question": "How does cloud storage benefit the takeoff process?",
+      "answer": "Cloud storage allows you to instantly access your takeoffs from anywhere and enhances collaboration across your organization."
+    },
+    {
+      "context": "Run our proprietary AI tool made especially for HVAC, piping, and plumbing takeoff with no need for any infrastructure on your end. Let us deal with the tech while you deal with the takeoff. Unlock time savings instantly.",
+      "question": "What is the benefit of the AI-driven cloud optimization feature?",
+      "answer": "It runs a specialized AI tool in the cloud without requiring local infrastructure, saving you time and technical effort."
+    },
+    {
+      "context": "Run our proprietary AI tool made especially for HVAC, piping, and plumbing takeoff with no need for any infrastructure on your end. Let us deal with the tech while you deal with the takeoff. Unlock time savings instantly.",
+      "question": "What does seamless integration mean in this context?",
+      "answer": "It means that the tool effortlessly integrates with your existing systems, allowing you to focus on the takeoff process while the backend technology is managed for you."
     }
   ]
   
